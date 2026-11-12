@@ -67,9 +67,3 @@ npm run start:mobile
 | Reviews | All reviews | Top 2 reviews |
 | Images | High-resolution | Low-resolution |
 | Description | Full text | Truncated (50 chars) |
-
-## Dependencies
-
-- express: ^4.18.2
-- axios: ^1.6.2
-- concurrently: ^8.2.0
